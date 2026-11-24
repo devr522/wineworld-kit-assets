@@ -1,0 +1,448 @@
+{
+  "package": "@wineworld/character-kit",
+  "totalItems": 55,
+  "flaggedCount": 0,
+  "allCommercialResaleSafe": true,
+  "items": [
+    {
+      "path": "assets/animations/idle.json",
+      "license": "CC0-1.0",
+      "author": "kblood (CC0-1.0)",
+      "source": "kblood/CharacterCreator procedural humanoid clips (output/animations/, CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/animations/idle_breathe.json",
+      "license": "CC0-1.0",
+      "author": "kblood (CC0-1.0)",
+      "source": "kblood/CharacterCreator procedural humanoid clips (output/animations/, CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/animations/index.json",
+      "license": "CC0-1.0",
+      "author": "kblood (CC0-1.0)",
+      "source": "kblood/CharacterCreator procedural humanoid clips (output/animations/, CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/animations/walk.json",
+      "license": "CC0-1.0",
+      "author": "kblood (CC0-1.0)",
+      "source": "kblood/CharacterCreator procedural humanoid clips (output/animations/, CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/asset_licenses.json",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/base_body.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/base_body.joints.json",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing.json",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_boots.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_bra.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_briefs.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_dress.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_hoodie.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_jacket.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_jeans.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_panties.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_shirt.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_shoes.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_shorts.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_skirt.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_trenchcoat.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_tshirt.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/clothing_vest.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/env/warm_studio_1k.hdr",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair.json",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_afro01.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_bob02.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_braid01.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_long01.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_ponytail01.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_short02.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/hair_short04.glb",
+      "license": "CC0-1.0",
+      "author": "makehuman_system / kblood",
+      "source": "MakeHuman / MPFB system assets via kblood/CharacterCreator output/ (CC0-1.0)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/cotton_jersey_Rough.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/cotton_jersey_nor_gl.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/dark_wood_Diffuse.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/dark_wood_Rough.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/dark_wood_nor_gl.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/leather_red_02_Rough.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "assets/tex/leather_red_02_nor_gl.jpg",
+      "license": "CC0-1.0",
+      "author": "Poly Haven",
+      "source": "Poly Haven (https://polyhaven.com/license)",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/accessories.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/character.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/clipPlayer.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/config.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/exporter.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/facialHair.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/hairGen.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/index.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/morphMap.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/outfitExtras.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/realism.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "src/vestDetails.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "demo/demo.js",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "demo/index.html",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "demo/styles.css",
+      "license": "MIT",
+      "author": "Wine World (original Three.js implementation; zero GPL viewer code)",
+      "source": "Original Wine World Character Kit code",
+      "commercialResaleSafe": true,
+      "flagged": false
+    },
+    {
+      "path": "peerDependency: three (>=0.160.0, tested r171)",
+      "license": "MIT",
+      "author": "Three.js authors",
+      "source": "https://github.com/mrdoob/three.js",
+      "commercialResaleSafe": true,
+      "flagged": false
+    }
+  ]
+}
